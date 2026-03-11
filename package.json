@@ -1,0 +1,11 @@
+{
+  "name": "opencode-biometrics-plugin",
+  "private": true,
+  "type": "module",
+  "version": "0.1.0",
+  "description": "OpenCode plugin for bootstrapping and operating BIOMETRICS V3",
+  "dependencies": {
+    "@opencode-ai/plugin": "^1.2.10"
+  },
+  "license": "UNLICENSED"
+}
