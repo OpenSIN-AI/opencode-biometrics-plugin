@@ -22,3 +22,11 @@ Then start OpenCode in that project and call the tools from your agent workflow.
 ## Safety
 
 The plugin does not run privileged installers automatically. If you run onboarding with non-interactive flags, you are explicitly opting into automation.
+
+## 📚 Documentation
+
+This repository follows the [Global Dev Docs Standard](https://github.com/OpenSIN-AI/Global-Dev-Docs-Standard).
+
+For contribution guidelines, see [CONTRIBUTING.md](CONTRIBUTING.md).
+For security policy, see [SECURITY.md](SECURITY.md).
+For the complete OpenSIN ecosystem, see [OpenSIN-AI Organization](https://github.com/OpenSIN-AI).
